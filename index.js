@@ -35,7 +35,12 @@ function dec(a){
    return a;
 }
 
-
-function preserveDecimal('80.123999'){
-  return parseFloat('80.123999');
+function preserveDecimal(n) {
+  return parseFloat(n)* Math.PI;
 }
+
+console.log(preserveDecimal(n));
+
+// function preserveDecimal('80.123999'){
+//   return parseFloat('80.123999');
+// }
