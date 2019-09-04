@@ -34,6 +34,6 @@ function dec(a){
    a -= 1
    return a;
 }
-function parseInt('2', 10){
-console.log(roughScale('2', 10));
+function makeInt('2', 10){
+console.log(makeInt('2', 10));
 }
