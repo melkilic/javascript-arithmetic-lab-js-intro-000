@@ -26,7 +26,7 @@ alert(divide(5.0,2.5));
 
 
 function inc(a){
-   a += 10
+   a += 1
 }
 
 
