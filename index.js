@@ -35,6 +35,7 @@ function dec(a){
    return a;
 }
 
-
-var x= makeInt('I am 10',10);
-console.log(makeInt("I am 10", 10));
+function makeInt('hey you',10){
+  
+}
+console.log(makeInt('hey you',10));
