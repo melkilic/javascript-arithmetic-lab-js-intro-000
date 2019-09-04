@@ -35,5 +35,5 @@ function dec(a){
    return a;
 }
 function makeInt('2', 10){
-return '2', 10;
+return '2';
 }
