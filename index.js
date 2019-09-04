@@ -47,4 +47,3 @@ function makeInt('12', base) {
   return parsed;
 }
 
-console.log(makeInt('12', 10));
