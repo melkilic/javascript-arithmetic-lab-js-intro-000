@@ -28,8 +28,7 @@ alert(divide(5.0,2.5));
 function inc(a){
    a +=
 }
-console.log(number)
-inc()
+
 
 // function inc(number) {
 //   number += 5
