@@ -23,13 +23,14 @@ function divide(first, second){
 }
 alert(divide(5.0,2.5));
 
-function makeInt('2.2222', 10)
 
-// function inc(number){
-//     var number += 5;
-// }
-// (inc(number));
-// console.log(10);
+
+function inc(number){
+    var number += 5;
+}
+(inc(number));
+console.log(10);
+
 // function inc(number) {
 //   number += 5
 // }
