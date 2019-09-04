@@ -36,8 +36,8 @@ function dec(a){
 }
 
 
-function makeInt('Hi',10){
-console.log('Hi');
+function makeInt('11',10){
+console.log(Number.isNaN('11'))
 }
 // function makeInt('123', 10){
 //   return number(123);
