@@ -37,7 +37,7 @@ function dec(a){
 
 
 function makeInt('Hi'){
-console.log('Hi'); 
+console.log('Hi');
 }
 // function makeInt('123', 10){
 //   return number(123);
