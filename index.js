@@ -34,6 +34,7 @@ function dec(a){
    a -= 1
    return a;
 }
+
 function makeInt('123', 10){
   return number(123);
 };
