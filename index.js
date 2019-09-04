@@ -36,7 +36,7 @@ function dec(a){
 }
 
 function preserveDecimal(n) {
-  return parseFloat(n)* Math.PI;
+  return parseFloat(n);
 }
 
 console.log(preserveDecimal('80.123999'));
