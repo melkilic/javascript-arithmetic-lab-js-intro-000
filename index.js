@@ -37,7 +37,7 @@ function dec(a){
 
 
 function makeInt(n){
-  return parseInt(n);
+  return parseInt(n,10);
 }
 console.log(makeInt('Hey! I am 80'));
 
