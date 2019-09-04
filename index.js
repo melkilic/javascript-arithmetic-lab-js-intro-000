@@ -36,8 +36,8 @@ function dec(a){
 }
 
 
-function makeInt('Hi'){
-console.log('Hi');
+function makeInt('Hi',10){
+console.log(makeInt('Hi',10));
 }
 // function makeInt('123', 10){
 //   return number(123);
