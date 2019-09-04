@@ -35,6 +35,6 @@ function dec(a){
    return a;
 }
 
-function makeInt('123', 10){
-  return number(123);
-};
+// function makeInt('123', 10){
+//   return number(123);
+// };
