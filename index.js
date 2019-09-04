@@ -34,6 +34,5 @@ function dec(a){
    a -= 1
    return a;
 }
-function makeInt('2', 10){
-return '2';
-}
+function makeInt('Hello', 8);
+
