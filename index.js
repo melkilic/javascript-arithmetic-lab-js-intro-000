@@ -36,9 +36,5 @@ function dec(a){
 }
 
 
-function makeInt('I am 10',10){
-};
+var x= makeInt('I am 10',10);
 
-// function makeInt('123', 10){
-//   return number(123);
-// };
