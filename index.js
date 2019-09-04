@@ -49,4 +49,4 @@ alert(inc(number++));
 //
 // }
 // alert()
-add5()
+// add5()
