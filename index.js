@@ -26,8 +26,9 @@ alert(divide(5.0,2.5));
 
 
 function inc(a){
-    var a += a+1;
+    var number += a+1;
 }
+
 
 // function inc(number) {
 //   number += 5
