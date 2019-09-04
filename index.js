@@ -25,8 +25,11 @@ alert(divide(5.0,2.5));
 
 
 
-var number = 10;
-function(number++){};
+function inc(number++){
+  var number = 10;
+  var number += 5;
+};
+alert(inc(number++));
 
 // function inc(number) {
 //   number += 5
