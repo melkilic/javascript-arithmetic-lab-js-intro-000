@@ -46,4 +46,3 @@ function makeInt('12', base) {
   if (isNaN(parsed)) { return 0 }
   return parsed;
 }
-
