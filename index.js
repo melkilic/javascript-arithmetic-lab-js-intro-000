@@ -37,3 +37,4 @@ function dec(a){
 
 
 var x= makeInt('I am 10',10);
+console.log()
