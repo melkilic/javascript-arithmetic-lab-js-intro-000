@@ -35,6 +35,9 @@ function dec(a){
    return a;
 }
 
+
+let b=  makeInt('Hi',10);
+console.log(b);
 // function makeInt('123', 10){
 //   return number(123);
 // };
