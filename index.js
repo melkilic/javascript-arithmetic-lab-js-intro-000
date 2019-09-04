@@ -30,6 +30,11 @@ function inc(a){
    return a;
 }
 
+function dec(a){
+   a -= 1
+   return a;
+}
+
 
 // function inc(number) {
 //   number += 5
