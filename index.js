@@ -38,3 +38,14 @@ function dec(a){
 function makeInt('123', 10){
   return number(123);
 };
+
+
+
+function makeInt(x, base) {
+  var parsed = makeInt('12', 10);
+  if (isNaN(parsed)) { return 0 }
+  return parsed * 100;
+}
+
+console.log(makeInt('12', 10));
+
