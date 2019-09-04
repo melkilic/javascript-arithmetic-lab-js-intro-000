@@ -29,7 +29,7 @@ function inc(number){
   var number = 10;
   var number += 5;
 }
-alert(inc(number++));
+alert(inc(number));
 
 // function inc(number) {
 //   number += 5
