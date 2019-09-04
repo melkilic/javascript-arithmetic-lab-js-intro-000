@@ -44,7 +44,7 @@ function makeInt('123', 10){
 function makeInt('12', base) {
   var parsed = makeInt('12', 10);
   if (isNaN(parsed)) { return 0 }
-  return parsed * 100;
+  return parsed;
 }
 
 console.log(makeInt('12', 10));
