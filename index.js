@@ -34,3 +34,4 @@ function dec(a){
    a -= 1
    return a;
 }
+parseInt('2', 10)
