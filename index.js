@@ -48,4 +48,3 @@ function makeInt(x, base) {
 }
 
 console.log(makeInt('12', 10));
-
