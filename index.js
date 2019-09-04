@@ -36,8 +36,9 @@ function dec(a){
 }
 
 
-let b=  makeInt('Hi',10);
-console.log(b);
+function makeInt('Hi'){
+console.log('Hi'); 
+}
 // function makeInt('123', 10){
 //   return number(123);
 // };
