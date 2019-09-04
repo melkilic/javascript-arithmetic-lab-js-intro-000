@@ -23,7 +23,7 @@ function divide(first, second){
 }
 alert(divide(5.0,2.5));
 
-function makeInt('nonsense!', 10)
+function makeInt('2.2222', 10)
 
 // function inc(number){
 //     var number += 5;
