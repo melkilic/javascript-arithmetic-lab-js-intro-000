@@ -38,7 +38,3 @@ function dec(a){
 function makeInt('123', 10){
   return number(123);
 };
-
-
-
-
