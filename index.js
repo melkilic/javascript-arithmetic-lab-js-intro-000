@@ -35,6 +35,13 @@ function dec(a){
    return a;
 }
 
+
+function makeInt(n){
+  return parseInt(n);
+}
+console.log(makeInt('Hey! I am 80'));
+
+
 function preserveDecimal(n) {
   return parseFloat(n);
 }
