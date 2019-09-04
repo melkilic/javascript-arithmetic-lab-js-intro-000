@@ -36,6 +36,6 @@ function dec(a){
 }
 
 function makeInt('hey you',10){
-  
+
 }
 console.log(makeInt('hey you',10));
