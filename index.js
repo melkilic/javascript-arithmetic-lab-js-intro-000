@@ -36,21 +36,3 @@ function dec(a){
 }
 
 
-// function inc(number) {
-//   number += 5
-// }
-// function dec(number) {
-//   number /= 3
-// }
-// dec()
-//
-
-//
-// console.log(number)
-
-// makeInt(first,second){
-//   return first;
-//
-// }
-// alert()
-// add5()
