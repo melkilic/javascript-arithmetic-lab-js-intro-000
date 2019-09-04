@@ -37,5 +37,5 @@ function dec(a){
 
 
 function preserveDecimal('80.123999'){
-  return parseFloat;
+  return parseFloat('80.123999');
 }
