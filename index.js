@@ -48,6 +48,4 @@ function preserveDecimal(n) {
 
 console.log(preserveDecimal('80.123999'));
 
-// function preserveDecimal('80.123999'){
-//   return parseFloat('80.123999');
-// }
+
