@@ -47,5 +47,3 @@ function preserveDecimal(n) {
 }
 
 console.log(preserveDecimal('80.123999'));
-
-
